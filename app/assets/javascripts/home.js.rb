@@ -1,1 +1,1 @@
-puts "Does not output to console"
+puts "this is home.js.rb"
